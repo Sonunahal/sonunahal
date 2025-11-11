@@ -1,20 +1,19 @@
-# 👋 Hi, I'm Sonu Nahal
-
-🎯 **Data Analyst | Storyteller | Insight Hunter**
-
-Welcome to my GitHub!  
-I’m passionate about turning raw data into meaningful insights and clear visual stories.  
-From data cleaning to advanced visualization and dashboards — I love exploring data that drives smart decisions.
+<!-- Typing Animation Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hey+I'm+Sonu+Nahal;Data+Analyst;Storyteller+%7C+Insight+Hunter;Welcome+to+my+GitHub!+👋" />
+</h1>
 
 ---
 
 ## 🚀 About Me
 
-- 📊 Skilled in **Data Analysis, Visualization, and Business Intelligence**
-- 🐍 Proficient in **Python, SQL, Excel, Power BI, and Tableau**
-- 🔍 Experienced with **data wrangling, EDA, and predictive modeling**
-- 📈 I enjoy creating **interactive dashboards and insightful reports**
-- 💡 Always learning something new about **AI, analytics, and automation**
+I turn raw data into meaningful insights and visual stories.
+
+- 📊 Data Analysis & Business Intelligence
+- 🐍 Python, SQL, Excel, Power BI, Tableau
+- 🔍 Data Cleaning, EDA, Predictive Modeling
+- 📈 Dashboard development & reporting
+- 💡 Passionate about AI-driven analytics & automation
 
 ---
 
@@ -24,55 +23,51 @@ From data cleaning to advanced visualization and dashboards — I love exploring
 |-----------|----------------|
 | **Languages** | Python (Pandas, NumPy, Matplotlib, Seaborn), SQL |
 | **Visualization** | Power BI, Tableau, Excel, Plotly |
-| **Database** | MySQL, PostgreSQL |
-| **Others** | Jupyter Notebook, Git/GitHub, Google Sheets, Streamlit |
+| **Database** | PostgreSQL, MySQL |
+| **Tools** | Jupyter Notebook, GitHub, Streamlit, Google Sheets |
 
 ---
 
 ## 📊 Featured Projects
 
-### 🧩 1. [Sales Performance Dashboard (Power BI)](https://github.com/sonunahal/sales-dashboard)
-Interactive dashboard showing key sales KPIs, revenue trends, and customer insights.
-
-### 🏥 2. [Healthcare Data Analysis (Python)](https://github.com/sonunahal/healthcare-analysis)
-Cleaned and visualized patient and hospital data to uncover operational inefficiencies.
-
-### 🛒 3. [E-commerce Customer Segmentation (Python + SQL)](https://github.com/sonunahal/ecommerce-segmentation)
-Applied clustering techniques to identify high-value customer groups.
-
-### 📉 4. [Financial Trends Visualization (Tableau)](https://github.com/sonunahal/financial-trends)
-Tableau dashboard showing financial performance and forecasts.
+| Project | Description | Tech |
+|--------|-------------|------|
+| **[Sales Performance Dashboard](https://github.com/sonunahal/sales-dashboard)** | Interactive sales analytics dashboard | Power BI |
+| **[Healthcare Data Analysis](https://github.com/sonunahal/healthcare-analysis)** | Patient and hospital data insights | Python |
+| **[E-commerce Customer Segmentation](https://github.com/sonunahal/ecommerce-segmentation)** | Market segmentation using clustering | Python + SQL |
+| **[Financial Trends Visualization](https://github.com/sonunahal/financial-trends)** | Forecasting and KPI tracking dashboard | Tableau |
 
 ---
 
 ## 📈 Example Visuals
 
-Here are some of the visuals I’ve created:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sonunahal/portfolio/main/images/dashboard_example.png" width="500" />
+  <img src="https://raw.githubusercontent.com/sonunahal/portfolio/main/images/eda_graphs.png" width="500" />
+</p>
 
-![Dashboard Example](https://raw.githubusercontent.com/sonunahal/portfolio/main/images/dashboard_example.png)
-![EDA Graphs](https://raw.githubusercontent.com/sonunahal/portfolio/main/images/eda_graphs.png)
-
-*(You can replace these image links with your actual visual files.)*
+> *(Replace image links with your own visuals when ready.)*
 
 ---
 
 ## 🧩 My Workflow
 
-1. **Collect Data:** Using APIs, SQL queries, or open datasets  
-2. **Clean & Prepare:** Handle missing data, outliers, and transform features  
-3. **Analyze:** Explore data for trends, patterns, and KPIs  
-4. **Visualize:** Create meaningful charts, dashboards, and reports  
-5. **Present:** Turn findings into actionable insights  
+1. **Collect Data:** APIs • SQL • Public datasets  
+2. **Clean & Transform:** Handle missing data, create features  
+3. **Analyze:** Patterns • KPI insights • Statistical exploration  
+4. **Visualize:** Stunning dashboards & reports  
+5. **Present:** Clear, concise, actionable recommendations  
 
 ---
 
 ## 📬 Connect With Me
 
-💼 **LinkedIn:** [linkedin.com/in/sonunahal](https://linkedin.com/in/sonunahal)  
-📧 **Email:** sonunahal@example.com  
-🐙 **GitHub:** [github.com/sonunahal](https://github.com/sonunahal)
+<p align="left">
+  <a href="https://linkedin.com/in/sonunahal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sonunahal@example.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/sonunahal" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
 ⭐ *“Data is the new oil, but insight is the fuel that drives success.”*
-
